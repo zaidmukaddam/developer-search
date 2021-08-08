@@ -14,7 +14,6 @@ var filesToCache = [
     './static/index.min.js',
 
     // Logo
-    './static/logo.png',
     './static/short-logo.png',
 
     // Android Icons
