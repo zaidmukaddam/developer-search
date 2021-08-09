@@ -7,11 +7,11 @@
 }
 
 ::-webkit-scrollbar-track {
-  background: var(--accent-color) !important;
+  background: var(--active-tab-color) !important;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(--active-tab-color) !important;
+  background: var(--accent-color) !important;
   border-radius: 0.5rem !important;
 }
 body {
